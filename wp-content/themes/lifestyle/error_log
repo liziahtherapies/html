@@ -1,0 +1,2 @@
+[12-Mar-2016 13:43:36 America/New_York] PHP Warning:  require_once(TEMPLATEPATH/lib/init.php): failed to open stream: No such file or directory in /home/liziahth/public_html/wp-content/themes/lifestyle/functions.php on line 3
+[12-Mar-2016 13:43:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'TEMPLATEPATH/lib/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/liziahth/public_html/wp-content/themes/lifestyle/functions.php on line 3
